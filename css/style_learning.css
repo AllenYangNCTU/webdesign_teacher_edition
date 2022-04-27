@@ -1,0 +1,27 @@
+* {
+    font-family: '標楷體';
+    margin: 0;
+}
+body {
+    width: 720px;
+    height: 620px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(../images/0101.jpg);
+}
+h3 {
+    font-size: 18px;
+    text-align: center;
+    color: #00ffff;
+}
+table {
+    width: 770px;
+}
+a {
+    display: block;
+    margin: 20px;
+}
+.listitem > a:hover {
+    display: inline;
+    background-color: orange;
+}

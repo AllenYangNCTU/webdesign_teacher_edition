@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-image: url(../images/0101.jpg);
+}
+header{
+    font-size: 18px;
+    text-align: center;
+    color: #ff0000;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    color: #ff0000;
+    font-size: 16px;
+}
